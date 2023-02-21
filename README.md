@@ -19,15 +19,8 @@ Volunteer and guest check-in system for Liquid Church's 2023 Night to Shine. Thi
 
 * This repo creates a static WASM app. A separate static server will be required to serve the static WASM app.
 * Makefile is used to build the static WASM app.
-** make web //This builds the static web files, including the CSS through tailwind CLI.
-** make app //This builds the WASM app files, needed to run the applicaion as a WASM.
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+    * make web //This builds the static web files, including the CSS through tailwind CLI.
+    * make app //This builds the WASM app files, needed to run the applicaion as a WASM.
 
 ## Authors
 
